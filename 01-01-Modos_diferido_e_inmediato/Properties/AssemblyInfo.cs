@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("01-01-LINQ-Modos_diferedo_e_inmediato")]
+[assembly: AssemblyTitle("01-01-Modos_diferido_e_inmediato")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("01-01-LINQ-Modos_diferedo_e_inmediato")]
+[assembly: AssemblyProduct("01-01-Modos_diferido_e_inmediato")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("abe75546-073a-483b-b472-ac5063b739a2")]
+[assembly: Guid("a546b9da-b638-40c1-94f1-721274d96440")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

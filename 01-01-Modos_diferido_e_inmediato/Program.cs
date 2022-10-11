@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_01_LINQ_Modos_diferedo_e_inmediato
+namespace _01_01_Modos_diferido_e_inmediato
 {
     class Program
     {
@@ -63,7 +63,7 @@ namespace _01_01_LINQ_Modos_diferedo_e_inmediato
                 Console.WriteLine(num);
             }
             Console.WriteLine("La lista");
-            foreach(int num in listaValores)
+            foreach (int num in listaValores)
             {
                 Console.WriteLine(num);
             }
