@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-00-LINQ-to_objects", "01-00-LINQ-to_objects\01-00-LINQ-to_objects.csproj", "{1C56C68E-DF8E-43C5-A758-3333EDEC9107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-01-LINQ-Modos_diferedo_e_inmediato", "01-01-LINQ-Modos_diferedo_e_inmediato\01-01-LINQ-Modos_diferedo_e_inmediato.csproj", "{ABE75546-073A-483B-B472-AC5063B739A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-01-Modos_diferido_e_inmediato", "01-01-LINQ-Modos_diferedo_e_inmediato\01-01-Modos_diferido_e_inmediato.csproj", "{ABE75546-073A-483B-B472-AC5063B739A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
