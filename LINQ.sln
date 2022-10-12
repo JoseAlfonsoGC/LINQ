@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-03-Query_desde_clases", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-04-ArrayList", "01-04-ArrayList\01-04-ArrayList.csproj", "{075AAA9A-000B-42CC-B5CA-28C5A16CAA83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-05-Operaciones_basicas", "01-05-Operaciones_basicas\01-05-Operaciones_basicas.csproj", "{0F5C1935-16A9-4A07-8264-2D0BE3998948}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{075AAA9A-000B-42CC-B5CA-28C5A16CAA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075AAA9A-000B-42CC-B5CA-28C5A16CAA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075AAA9A-000B-42CC-B5CA-28C5A16CAA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F5C1935-16A9-4A07-8264-2D0BE3998948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5C1935-16A9-4A07-8264-2D0BE3998948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5C1935-16A9-4A07-8264-2D0BE3998948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5C1935-16A9-4A07-8264-2D0BE3998948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
