@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-10-Operadores", "01-10-O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-11-Operadores_por_categoria", "01-11-Operadores_por_categoria\01-11-Operadores_por_categoria.csproj", "{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-00-LINQ-to_XML", "02-00-LINQ-to_XML\02-00-LINQ-to_XML.csproj", "{851556C4-7887-4860-A0C1-6555A9066FB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851556C4-7887-4860-A0C1-6555A9066FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851556C4-7887-4860-A0C1-6555A9066FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851556C4-7887-4860-A0C1-6555A9066FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851556C4-7887-4860-A0C1-6555A9066FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
