@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-11-Operadores_por_catego
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-00-LINQ-to_XML", "02-00-LINQ-to_XML\02-00-LINQ-to_XML.csproj", "{851556C4-7887-4860-A0C1-6555A9066FB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-01-XDocument", "02-01-XDocument\02-01-XDocument.csproj", "{81F8AF16-7467-4531-A945-869EC6AE5E1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{851556C4-7887-4860-A0C1-6555A9066FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{851556C4-7887-4860-A0C1-6555A9066FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{851556C4-7887-4860-A0C1-6555A9066FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F8AF16-7467-4531-A945-869EC6AE5E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F8AF16-7467-4531-A945-869EC6AE5E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F8AF16-7467-4531-A945-869EC6AE5E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F8AF16-7467-4531-A945-869EC6AE5E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
