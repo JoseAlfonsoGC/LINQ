@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-09-Query_progresivo", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-10-Operadores", "01-10-Operadores\01-10-Operadores.csproj", "{2FE47C82-46EB-4381-BA91-0487C02ED735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-11-Operadores_por_categoria", "01-11-Operadores_por_categoria\01-11-Operadores_por_categoria.csproj", "{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2FE47C82-46EB-4381-BA91-0487C02ED735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FE47C82-46EB-4381-BA91-0487C02ED735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FE47C82-46EB-4381-BA91-0487C02ED735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E6C69B-81EA-40DB-A85D-A0EA9D766B7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
