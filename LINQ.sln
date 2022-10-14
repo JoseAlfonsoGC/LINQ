@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-01-XDocument", "02-01-XD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-02-Arreglos_a_XML", "02-02-Arreglos_a_XML\02-02-Arreglos_a_XML.csproj", "{D0F1C42C-CBBD-42E5-B822-B7FB525C5779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-03-Elementos-I", "02-03-Elementos-I\02-03-Elementos-I.csproj", "{E84A8E67-A0C8-4F09-AA57-7C7E3263FA67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-03-Elementos_XML-I", "02-03-Elementos-I\02-03-Elementos_XML-I.csproj", "{E84A8E67-A0C8-4F09-AA57-7C7E3263FA67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
